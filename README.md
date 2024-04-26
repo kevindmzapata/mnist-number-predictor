@@ -15,7 +15,10 @@ Convolutional neural network (CNN) model that predicts numbers from 0 to 9 with 
 
 ## Screenshots
 
+### MaxPooling Layer 1
 ![App Screenshot](https://github.com/kevindmzapata/mnist-number-predictor/blob/main/maxpool_layer_1.png)
+
+### MaxPooling Layer 2
 ![App Screenshot](https://github.com/kevindmzapata/mnist-number-predictor/blob/main/maxpool_layer_2.png)
 
 
