@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-I'm a Electronic Engineering and Data Scientist.
+I'm a Electronic Engineer and Data Scientist.
 
 
 # MNIST Number Predictor
